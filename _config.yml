@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : #"Yanyuchen.png"
-  name             : "Yan Yuchen 闫雨晨 "
+  name             : "Yan Yuchen"
   pronouns         : # example: "she/her"  
   bio              : " To make robot more smart"
-  location         : "Xi'an China"
+  location         : "Xi'an, China"
   employer         : "Northwestern Polytechnical University"
   uri              : # URL
   email            : "yanyuchen@mail.nwpu.edu.cn" 
