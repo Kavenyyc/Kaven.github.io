@@ -15,6 +15,7 @@ I am very fortunate to be advised by [Prof. Zhang Yizhai](https://teacher.nwpu.e
 You can find my CV here: [Yan Yuchen's Curriculum Vitae](../assets/YanYuchen-cv.pdf).
 
 [Email](yanyuchen@mail.nwpu.edu.cn) / [Github](https://github.com/Kavenyyc) / [Wechat](../images/Wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+
 ————————————————
 
 A data-driven personal website
